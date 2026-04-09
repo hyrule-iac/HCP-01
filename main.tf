@@ -49,7 +49,7 @@ Nota secreta:
 ${var.secret_note}
 EOF
 
-  filename = "info1.txt"
+  filename = "infov2.txt"
 }
 
 module "demo" {
